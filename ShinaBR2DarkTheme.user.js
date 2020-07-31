@@ -5,8 +5,8 @@
 // @author       Maple
 // @match        https://shinabr2.com/ulala/
 // @grant        none
-// @updateURL    
-// @downloadURL
+// @updateURL    https://github.com/DrMaple/ShinaBR2-Dark-Theme/raw/master/ShinaBR2DarkTheme.user.js
+// @downloadURL  https://github.com/DrMaple/ShinaBR2-Dark-Theme/raw/master/ShinaBR2DarkTheme.user.js
 // ==/UserScript==
 
 (function (window, undefined) {
