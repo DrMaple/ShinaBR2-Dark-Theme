@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ShinaBR2 Dark Mode
-// @version      0.1
+// @version      0.2
 // @description  Dark Mode for ShinaBR2
 // @author       Maple
 // @match        https://shinabr2.com/ulala/
